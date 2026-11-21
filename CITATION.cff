@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+title: "Relativistic Holographic Information Theory (RHIT V8.5 — Path 2 Master Solution)"
+message: "If you use this theoretical framework, SSOT database, or verification kernel in your research, please cite it as below."
+type: software
+authors:
+  - family-names: "Bunhachirat"
+    given-names: "Suchart"
+    alias: "OrrBun"
+version: "8.5.0"
+date-released: "2026-11-21"
+url: "https://github.com/suchartorr/RHIT-V8.5-Master-Solution"
+repository-code: "https://github.com/suchartorr/RHIT-V8.5-Master-Solution"
+abstract: "A 5D holographic bottom-up Effective Field Theory (EFT) formulated on S^2 x R_t x [u_IR, 0] unifying emergent gravity, cosmology, dark sector screening, and fermion mass hierarchies from 18 free parameters to 22 predicted physical observables (chi^2 = 1.9421, dof = 4), packaged with a 15-digit Single Source of Truth (SSOT) database and an AI Research Ambassador skill framework."
+keywords:
+  - "Holographic Principle"
+  - "Quantum Information"
+  - "Emergent Gravity"
+  - "Effective Field Theory"
+  - "Beyond Standard Model"
+  - "Dark Energy"
+  - "Symmetron Screening"
+  - "Theoretical Physics"
+  - "AI Research Ambassador"
+license: "MIT"

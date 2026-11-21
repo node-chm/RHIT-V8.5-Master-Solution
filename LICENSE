@@ -1,0 +1,42 @@
+# Dual License Agreement — Relativistic Holographic Information Theory (RHIT V8.5)
+
+Copyright (c) 2026 Suchart Bunhachirat (OrrBun)
+
+This repository and its contents are released under a dual-licensing model to support open-science reproducibility and software development:
+
+---
+
+## 1. Theoretical Manuscripts & Documentation (CC-BY 4.0)
+All theoretical papers, mathematical derivations, LaTeX/PDF documents, and explanatory documentation (`RHIT_V8_5_Paper.pdf`, `RHIT_V8_5_Paper.tex`, `README.md`, `README_TH.md`, `AI_RESEARCH_SKILL.md`) are licensed under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.
+
+You are free to:
+* **Share** — copy and redistribute the material in any medium or format for any purpose, even commercially.
+* **Adapt** — remix, transform, and build upon the material for any purpose, even commercially.
+
+Under the following terms:
+* **Attribution** — You must give appropriate credit to **Suchart Bunhachirat (OrrBun)** and cite *Relativistic Holographic Information Theory (RHIT V8.5 — Path 2 Master Solution)*, provide a link to the license, and indicate if changes were made.
+
+Full license text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+---
+
+## 2. Source Code & Structured Data (MIT License)
+All software scripts, verification kernels, and structured JSON databases (`rhit_v8_5_audit_kernel_v4.py`, `rhit_v8_5_ai_ssot.json`, `CITATION.cff`) are licensed under the **MIT License**:
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
