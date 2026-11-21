@@ -7,9 +7,14 @@ authors:
     given-names: "Suchart"
     alias: "OrrBun"
 version: "8.5.0"
+doi: "10.5281/zenodo.24415515"
 date-released: "2026-11-21"
 url: "https://github.com/suchartorr/RHIT-V8.5-Master-Solution"
 repository-code: "https://github.com/suchartorr/RHIT-V8.5-Master-Solution"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.24415515"
+    description: "Zenodo archive of RHIT V8.5.0"
 abstract: "A 5D holographic bottom-up Effective Field Theory (EFT) formulated on S^2 x R_t x [u_IR, 0] unifying emergent gravity, cosmology, dark sector screening, and fermion mass hierarchies from 18 free parameters to 22 predicted physical observables (chi^2 = 1.9421, dof = 4), packaged with a 15-digit Single Source of Truth (SSOT) database and an AI Research Ambassador skill framework."
 keywords:
   - "Holographic Principle"
