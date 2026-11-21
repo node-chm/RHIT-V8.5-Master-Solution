@@ -3,7 +3,7 @@
 
 [![License: CC BY 4.0](https://img.shields.io/badge/Paper%20License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![License: MIT](https://img.shields.io/badge/Code%20License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.xxxxxxx-green.svg)](#)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24415515.svg)](https://doi.org/10.5281/zenodo.24415515)
 [![Status](https://img.shields.io/badge/Status-Open%20Research%20%7C%20V8.5%20Verified-success.svg)](#)
 
 ---
@@ -52,8 +52,8 @@ RHIT-V8.5-Theory/
 
 ```bash
 # 1. คัดลอกคลังข้อมูลลงในเครื่อง
-git clone https://github.com/your-username/RHIT-V8.5-Theory.git
-cd RHIT-V8.5-Theory
+git clone https://github.com/suchartorr/RHIT-V8.5-Master-Solution.git
+cd RHIT-V8.5-Master-Solution
 
 # 2. รันสคริปต์ตรวจสอบสมการจากฐานข้อมูล SSOT
 python3 rhit_v8_5_audit_kernel_v4.py
@@ -91,7 +91,7 @@ python3 rhit_v8_5_audit_kernel_v4.py
 ## 8. สัญญาอนุญาตและการอ้างอิง (License & Citation)
 * **เอกสารทฤษฎี:** เผยแพร่ภายใต้สัญญาอนุญาต [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 * **ซอร์สโค้ดและไฟล์ข้อมูล JSON:** เผยแพร่ภายใต้สัญญาอนุญาต [MIT License](https://opensource.org/licenses/MIT)
-* หากนำผลงานนี้ไปใช้อ้างอิง กรุณาระบุแหล่งที่มาถึง: *Relativistic Holographic Information Theory (RHIT V8.5 — Path 2 Master Solution), DOI: 10.5281/zenodo.xxxxxxx*
+* หากนำผลงานนี้ไปใช้อ้างอิง กรุณาระบุแหล่งที่มาถึง: *Relativistic Holographic Information Theory (RHIT V8.5 — Path 2 Master Solution), DOI: [10.5281/zenodo.24415515](https://doi.org/10.5281/zenodo.24415515)*
 
 ---
 
