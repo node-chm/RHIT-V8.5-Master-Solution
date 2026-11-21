@@ -1,5 +1,8 @@
 # Relativistic Holographic Information Theory (RHIT V8.5 — Path 2 Master Solution)
-
+[![License: CC BY 4.0](https://img.shields.io/badge/Paper%20License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![License: MIT](https://img.shields.io/badge/Code%20License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24415515.svg)](https://doi.org/10.5281/zenodo.24415515)
+[![Status](https://img.shields.io/badge/Status-Open%20Research%20%7C%20V8.5%20Verified-success.svg)](#)
 **A 5D Holographic Bottom-Up Effective Field Theory Unifying Emergent Gravity, Cosmology, and Particle Physics**
 
 ## 1. Overview
@@ -52,8 +55,8 @@ You can independently verify the mathematical consistency and all 22 predicted o
 
 ```
 # 1. Clone the repository
-git clone https://github.com/your-username/RHIT-V8.5-Theory.git
-cd RHIT-V8.5-Theory
+git clone https://github.com/suchartorr/RHIT-V8.5-Master-Solution.git
+cd RHIT-V8.5-Master-Solution
 
 # 2. Execute the audit kernel against the SSOT database
 python3 rhit_v8_5_audit_kernel_v4.py
@@ -95,8 +98,7 @@ This work is the result of transparent, synergistic collaboration between the **
 * **Theoretical Manuscript:** Licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 * **Source Code & JSON Database:** Licensed under the [MIT License](https://opensource.org/licenses/MIT).
-
-* **Citation:** If you use or build upon this work, please cite: *Relativistic Holographic Information Theory (RHIT V8.5 — Path 2 Master Solution), DOI: 10.5281/zenodo.xxxxxxx*
+* **Citation:** If you use or build upon this work, please cite: *Relativistic Holographic Information Theory (RHIT V8.5 — Path 2 Master Solution), DOI: [10.5281/zenodo.24415515](https://doi.org/10.5281/zenodo.24415515)*
 
 ## 9. Language Precedence Notice (หมายเหตุเรื่องความถูกต้องของภาษา)
 
