@@ -3,6 +3,10 @@
 [![License: MIT](https://img.shields.io/badge/Code%20License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24415515.svg)](https://doi.org/10.5281/zenodo.24415515)
 [![Status](https://img.shields.io/badge/Status-Open%20Research%20%7C%20V8.5%20Verified-success.svg)](#)
+
+🌐 **Language:** **English** | [ภาษาไทย (Thai)](./README_TH.md)
+
+
 **A 5D Holographic Bottom-Up Effective Field Theory Unifying Emergent Gravity, Cosmology, and Particle Physics**
 
 ## 1. Overview
