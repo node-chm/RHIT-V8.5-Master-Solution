@@ -171,6 +171,14 @@ class RHITSEWNKernel:
         """
         Estimates epicenter centroid and empirical moment magnitude Mw +/- 0.4
         from fault rupture span L_km across phase-locked stations.
+
+        Physical Scope & Boundary Note on L_km:
+        - L_km strictly represents the contiguous **Fault Rupture Span** across adjacent
+          nodes exhibiting verified phase-lock coherence (|<u2(A), u2(B)>| >= 0.85),
+          NOT the raw geometric baseline distance between widely separated regional stations.
+        - Applying this empirical scaling (Mw = 4.38 + 1.49 * log10(L_km)) to unverified
+          far-field baselines will overestimate Mw and violate local crustal screening bounds.
+
         station_coords: list of (lat, lon) tuples in degrees
         """
         coords = np.array(station_coords, dtype=float)
