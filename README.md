@@ -11,7 +11,7 @@
 
 ## 1. Overview
 
-**Relativistic Holographic Information Theory (RHIT V8.5)** is a bottom-up Effective Field Theory (EFT) formulated on a 5D warped geometry ($S^2 \times \mathbb{R}_t \times [u_{\text{IR}}, 0]$). Grounded in the foundational axiom that **"Quantum Information is the primary physical substrate of reality,"** 4D spacetime, gravity, dark energy, and matter emerge holographically from quantum information encoded on the cosmic horizon.
+**Relativistic Holographic Information Theory (RHIT V8.5)** is a bottom-up Effective Field Theory (EFT) formulated on a 5D warped geometry ($S^2 \times \mathbb{R}\_t \times [u\_{\text{IR}}, 0]$). Grounded in the foundational axiom that **"Quantum Information is the primary physical substrate of reality,"** 4D spacetime, gravity, dark energy, and matter emerge holographically from quantum information encoded on the cosmic horizon.
 
 Starting from 40 initial parameters, the framework is constrained by $SO(10)$ Pati-Salam symmetry and CP phase conditions down to **18 free parameters** (preserving the explicit physical transparency of all parameters for ease of study and verification). From these 18 inputs, the model accurately predicts **22 fundamental physical observables** with exceptional statistical precision:
 
