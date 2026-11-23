@@ -1,109 +1,99 @@
-# Relativistic Holographic Information Theory (RHIT V8.5 — Path 2 Master Solution)
-[![License: CC BY 4.0](https://img.shields.io/badge/Paper%20License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![License: MIT](https://img.shields.io/badge/Code%20License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24415515.svg)](https://doi.org/10.5281/zenodo.24415515)
-[![Status](https://img.shields.io/badge/Status-Open%20Research%20%7C%20V8.5%20Verified-success.svg)](#)
+# Relativistic Holographic Information Theory (RHIT V9.0)
 
-🌐 **Language:** **English** | [ภาษาไทย (Thai)](./README_TH.md)
+**Unified 5D Holographic Field Architecture, Scalar Dark Matter Soliton Cores, and Compact-Object Echoes**  
+*(Master Verification Release v9.0.0 / SSOT Schema v9.0.0)*
 
+[![Verification Status](https://img.shields.io/badge/SSOT_Audit-PASSED_(%CF%87%C2%B2%3D1.9421)-0F766E?style=flat-square)](#22-observable-ssot-verification-summary)
+[![Degrees of Freedom](https://img.shields.io/badge/dof-4_(22_Obs_--_18_Params)-1E3A8A?style=flat-square)](#theoretical-architecture)
+[![LVDB Kinematics](https://img.shields.io/badge/MW_Satellites_%CE%94%CF%87%C2%B2--40.66%25-0F766E?style=flat-square)](#pillar-iii-lvdb-soliton-cores--m87-echoes)
+[![M87* Resonance](https://img.shields.io/badge/M87*_Superradiance_%CE%B1g%3D1.377-1E3A8A?style=flat-square)](#pillar-iii-lvdb-soliton-cores--m87-echoes)
 
-**A 5D Holographic Bottom-Up Effective Field Theory Unifying Emergent Gravity, Cosmology, and Particle Physics**
+> **[อ่านเอกสารภาษาไทย (Read in Thai)](README_TH.md)** | **[English Manuscript (PDF)](RHIT_V9_0_Paper.pdf)** | **[Thai Manuscript (PDF)](RHIT_V9_0_Paper_TH.pdf)** | **[AI Research Skill](AI_RESEARCH_SKILL.md)**
 
-## 1. Overview
+---
 
-**Relativistic Holographic Information Theory (RHIT V8.5)** is a bottom-up Effective Field Theory (EFT) formulated on a 5D warped geometry ($S^2 \times \mathbb{R}\_t \times [u\_{\text{IR}}, 0]$). Grounded in the foundational axiom that **"Quantum Information is the primary physical substrate of reality,"** 4D spacetime, gravity, dark energy, and matter emerge holographically from quantum information encoded on the cosmic horizon.
+## Overview & Theoretical Architecture
 
-Starting from 40 initial parameters, the framework is constrained by $SO(10)$ Pati-Salam symmetry and CP phase conditions down to **18 free parameters** (preserving the explicit physical transparency of all parameters for ease of study and verification). From these 18 inputs, the model accurately predicts **22 fundamental physical observables** with exceptional statistical precision:
+**Relativistic Holographic Information Theory (RHIT V9.0)** is an integrated bottom-up effective field theory (EFT) formulated on a 5-dimensional warped geometry $S^2 \times \mathbb{R}_t \times [u_{\text{IR}}, 0]$. It unifies quantum information entropy on a spherical horizon $S^2$, 5D $SO(10) \to SU(4)_C \times SU(2)_L \times SU(2)_R \to \text{SM}$ gauge unification, emergent gravity, and scalar dark matter dynamics within a single Master Action:
 
-* **Total Chi-Squared (**$\chi^2$**):** `1.9421`
+$$S_{\text{RHIT}}^{\text{V9.0}} = \int d^4x \sqrt{-g} \left[ \frac{c^3}{16\pi G_N(u_{\text{IR}})} \left( R + \frac{R^2}{6 M_{\text{sc}}^2} - \frac{6\gamma_{\text{ent}} H^2}{c^2} \right) - \frac{1}{2}(\partial\phi)^2 - V_{\text{sym}}(\phi) - \frac{\phi^2}{2M_s^2} T^\mu_{\ \mu} + \mathcal{L}_{5\text{D Matter}} \right]$$
 
-* **Degrees of Freedom (**$\text{dof}$**):** `22 - 18 = 4 > 0`
+### Methodological Governance & Epistemic Rigor
+* **Zero-Contamination Core:** Built directly upon the audited V8.5 baseline, RHIT V9.0 preserves all **22 fundamental observables** across cosmology, gravity, quark/lepton mass spectra, CKM/PMNS mixing matrices, and CP violation at 15-digit Single Source of Truth (SSOT) precision with a combined $\chi^2 = 1.9421$ ($\text{dof} = 22 - 18 = 4 > 0$, maximum deviation $0.8567\sigma$). None of the 22 fundamental observables are altered by V9.0 astrophysical extensions.
+* **Explicit Separation of Derivation Tiers:**
+  * *Exact 5D Geometric Derivations:* Quartic scalar self-coupling $\lambda_{\text{V9}} = \exp[(4 + 2\delta_H - \frac{1}{2\pi})u_{\text{IR}}] = 2.750176 \times 10^{-83}$ and vacuum Thomas-Fermi soliton core radius $R_{\text{TF,vac}} = 320.3682\text{ pc}$ are derived directly from 5D geometric invariants ($u_{\text{IR}} = -38.442471$, $\delta_H = 0.552141$) with zero new fundamental free parameters.
+  * *Geometric & Phenomenological Ansatz:* Galactic halo-to-stellar scaling parameters ($\log_{10} M_{\text{floor}}, \alpha_{\text{SHMR}}, \log_{10} \rho_{\text{crit,tot}}$) are calibrated against empirical Local Volume Database (LVDB) dwarf galaxy kinematics.
 
-* **Numerical Precision (SSOT):** 15-decimal-place accuracy (Zero-Hardcoding Benchmark)
+---
 
-## 2. The 4 Theoretical Pillars
+## Pillar III Highlights: LVDB Soliton Cores & M87* Echoes
 
-1. **Pillar I: Holographic Backend & UV Cutoff**
+### 1. Local Volume Database (LVDB) Dwarf Galaxy Kinematics
+Coupling the 5D repulsive quartic coupling $\lambda_{\text{V9}}$ with density-dependent $T^\mu_{\ \mu}$ Symmetron core modulation smoothly transitions cored Thomas-Fermi solitons ($R_{\text{min}} = 12.0\text{ pc}$ to $R_{\text{TF,vac}} = 320.37\text{ pc}$) into outer NFW envelopes while maintaining Solar System screening ($\langle\phi\rangle = 0$, $\eta = 0.0$):
 
-   * Computes the total holographic quantum information on the $S^2$ cosmic horizon as $N_{\text{bits}} \approx 3.25 \times 10^{122}\text{ bits}$, anchored by a UV cutoff scale at $E_{\text{UV}} \approx 1.220889 \times 10^{19}\text{ GeV}$.
+| LVDB Sample | Kinematic Model | Total $\chi^2$ | $\chi^2_{\text{red}}$ | $\Delta\chi^2$ vs. NFW |
+| :--- | :--- | :---: | :---: | :---: |
+| Milky Way Satellites ($N = 46$) | Standard $\Lambda\text{CDM}$ (NFW) | $1,355.62$ | $30.810$ | Baseline |
+| Milky Way Satellites ($N = 46$) | **RHIT V9.0 Hybrid ($T^\mu_{\ \mu}$ + TF)** | **$804.44$** | **$18.708$** | **$-40.66\%$** |
+| Full Local Volume ($N = 94$) | Standard $\Lambda\text{CDM}$ (NFW) | $3,264.30$ | $35.482$ | Baseline |
+| Full Local Volume ($N = 94$) | **RHIT V9.0 Hybrid ($T^\mu_{\ \mu}$ + TF)** | **$3,058.60$** | **$33.611$** | **$-6.30\%$** |
 
-2. **Pillar II: Emergent Gravity & Starobinsky Inflation**
+### 2. Compact-Object Echoes & Superradiant Boson Cloud Resonance
+Using a one-way astrophysical export ($m_{\text{eff}} = 2.83 \times 10^{-20}\text{ eV}$, $M_{\text{max,sol}} = 1.0683 \times 10^{16}\,M_\odot$), RHIT V9.0 predicts gravitational atom couplings $\alpha_g = G_N M m_{\text{eff}} / (\hbar c)$ and horizonless echo delays $\Delta t_{\text{echo}} = (2 r_s / c)|\ln \epsilon|$:
 
-   * Derives Newton's gravitational constant $G_N = 6.674311 \times 10^{-11}\text{ m}^3\text{kg}^{-1}\text{s}^{-2}$ dynamically from the Planck cutoff and IR boundary, while predicting a primordial tensor-to-scalar ratio of $r = 0.003691$ (falsifiable between 2026–2035 via Simons Observatory and LiteBIRD).
+| Astrophysical Target | Mass ($M_\odot$) | $\alpha_g$ | $\Delta t_{\text{V9}}$ (s) | $\Delta t_{\text{UV}}$ (s) | Observatory |
+| :--- | :---: | :---: | :---: | :---: | :--- |
+| GW150914-like Remnant | $62$ | $1.313 \times 10^{-8}$ | $0.0772$ | $0.1127$ | LIGO / Virgo / ET |
+| Intermediate-Mass BH | $1.0 \times 10^4$ | $2.118 \times 10^{-6}$ | $10.456$ | $19.172$ | LISA / ET |
+| Sgr A$^*$ (Milky Way) | $4.297 \times 10^6$ | $9.100 \times 10^{-4}$ | $3,466.6$ | $8,751.6$ | EHT / ngEHT / LISA |
+| **M87$^*$ (Virgo A Center)** | **$6.5 \times 10^9$** | **$1.377$** | **$3.369 \times 10^6$** | **$1.418 \times 10^7$** | **EHT / ngEHT (Peak)** |
 
-3. **Pillar III: Dark Sector & Symmetron Screening**
+Notably, supermassive black hole **M87$^*$** ($M = 6.5 \times 10^9\,M_\odot$) sits directly inside the peak superradiant instability window ($\alpha_g = 1.377 \in [0.2, 2.0]$), offering a decisive polarimetric and photon-ring test for ngEHT.
 
-   * Derives the dark energy density $\rho_{\text{DE}} = 5.253185 \times 10^{-10}\text{ J/m}^3$ from Gibbons-Hawking horizon thermodynamics and the geometric entanglement fraction $\gamma_{\text{ent}} = 1 - 1/\pi$, coupled with a Symmetron scalar field that forms solitonic dark matter cores in dwarf galaxies while screening fifth forces in high-density environments like our Solar System ($\eta = 0.0$).
+---
 
-4. **Pillar IV: Matter Sector & 5D Complex SVD**
+## 22-Observable SSOT Verification Summary
 
-   * Explains the fermion mass hierarchy across all 12 fundamental particles (quarks, charged leptons, neutrinos), CKM/PMNS mixing angles, and CP violation ($J_{\text{CP}}$) via bulk wave-function localization along the 5th dimension ($u_{\text{IR}} = -38.44$), while stabilizing proton lifetime at $\tau_p \approx 1.51 \times 10^{48}\text{ years}$.
+| Sector | Observables | Key Predictions | Max Dev ($\sigma$) | Sector $\chi^2$ |
+| :--- | :--- | :--- | :---: | :---: |
+| **Cosmology & Gravity** | $G_N, \rho_{\text{DE}}, r_{\text{tensor}}, n_s$ | $G_N = 6.674311 \times 10^{-11}$, $r = 0.003691$, $n_s = 0.964925$ | $+0.0704\sigma$ | $0.0050$ |
+| **Quarks** | $m_t, m_c, m_u, m_b, m_s, m_d$ | $m_t = 172.6861\text{ GeV}$, $m_b = 4.1839\text{ GeV}$ | $-0.3812\sigma$ | $0.1703$ |
+| **Charged Leptons** | $m_\tau, m_\mu, m_e$ | $m_\tau = 1.776856\text{ GeV}$, $m_\mu = 0.105658\text{ GeV}$ | $+0.0232\sigma$ | $0.0005$ |
+| **CKM & CP Violation** | $V_{us}, V_{cb}, V_{ub}, J_{\text{CP}}$ | $V_{us} = 0.224346$, $J_{\text{CP}} = 2.9515 \times 10^{-5}$ | $-0.8567\sigma$ | $1.7662$ |
+| **Neutrinos & PMNS** | $\Delta m_{31}^2, \Delta m_{21}^2, \theta_{12}, \theta_{23}, \theta_{13}$ | Normal Ordering $[3.251, 9.201, 50.216]\text{ meV}$ | $+0.0018\sigma$ | $0.0000$ |
+| **Combined Total** | **22 Observables** | **18 Effective Free Parameters ($\text{dof} = 4$)** | **$0.8567\sigma$** | **$1.9421$** |
 
-## 3. Repository Structure
+---
 
+## Repository Structure
+
+```text
+.
+├── data/                          # Empirical LVDB kinematic datasets (Milky Way & Local Volume)
+├── rhit_v9_0_ai_ssot.json         # 15-digit Single Source of Truth (SSOT) parameter & observable database
+├── rhit_v9_0_audit_kernel.py      # Zero-contamination self-auditing Python verification kernel
+├── RHIT_V9_0_Paper.pdf            # Master Verification Manuscript (English PDF)
+├── RHIT_V9_0_Paper.tex            # Master Verification Manuscript (English LaTeX Source)
+├── RHIT_V9_0_Paper_TH.pdf         # Master Verification Manuscript (Thai PDF)
+├── RHIT_V9_0_Paper_TH.tex         # Master Verification Manuscript (Thai LaTeX Source)
+├── RHIT_V9_0_Paper_TH.md          # Master Verification Manuscript (Thai Reference Markdown)
+├── AI_RESEARCH_SKILL.md           # AI Co-Architect & Research Ambassador system prompt & guidelines
+├── README.md                      # Repository overview (English)
+└── README_TH.md                   # Repository overview (Thai Authoritative)
 ```
-RHIT-V8.5-Theory/
-├── RHIT_V8_5_Paper.pdf             # Complete theoretical manuscript and core equations
-├── RHIT_V8_5_Paper.tex             # LaTeX source file for academic citations
-├── rhit_v8_5_audit_kernel_v4.py    # Automated Python verification and audit script
-├── rhit_v8_5_ai_ssot.json          # Single Source of Truth (SSOT) 15-digit parameter database
-├── AI_RESEARCH_SKILL.md            # System skill file enabling AI to act as Research Ambassador
-├── README_TH.md                    # Authoritative Thai version of the project documentation
-└── README.md                       # English project documentation (this file)
 
+---
+
+## Quickstart & Local Verification
+
+To reproduce all 22 SSOT observables, LVDB soliton kinematic fits, and compact-object echo windows from scratch using Python 3 (requires `numpy` and `scipy`):
+
+```bash
+python3 rhit_v9_0_audit_kernel.py
 ```
 
-## 4. Quick Start: Running the Audit Kernel
-
-You can independently verify the mathematical consistency and all 22 predicted observables using standard Python 3 (no external third-party dependencies required):
-
-```
-# 1. Clone the repository
-git clone https://github.com/suchartorr/RHIT-V8.5-Master-Solution.git
-cd RHIT-V8.5-Master-Solution
-
-# 2. Execute the audit kernel against the SSOT database
-python3 rhit_v8_5_audit_kernel_v4.py
-
-```
-
-*The console output will display the step-by-step derivation of all fundamental constants, the total* $\chi^2 = 1.9421$*, and verification pass flags across all 4 pillars.*
-
-## 5. Open Research Roadmap (Toward RHIT V9.0)
-
-This project invites modular contributions from the global research community to advance the framework into a UV-complete fundamental theory (**RHIT V9.0**) across **3 Open Challenges** (see `ROADMAP_V9.md` for full technical briefs):
-
-1. **Challenge 1 (Quantum Information & Holography):** Provide a microscopic derivation of the geometric entanglement fraction $\gamma_{\text{ent}} = 1 - 1/\pi$ from entanglement entropy integrals on the $S^2$ horizon.
-
-2. **Challenge 2 (Extra-Dimensional GUTs & Flavor Physics):** Reduce the 18 free parameters in the 5D bulk into topological integers (via Orbifold compactification or Modular Flavor Symmetries) to maximize $\text{dof}$.
-
-3. **Challenge 3 (Non-Perturbative Quantum Gravity):** Formulate the UV completion and pre-geometric quantum bit dynamics above $E_{\text{UV}}$ to resolve black hole and Big Bang singularities while preserving unitarity.
-
-**Automated Verification Gate:** All proposed V9.0 modules must pass `rhit_v8_5_audit_kernel_v4.py` by preserving 15-digit precision on fundamental constants, maintaining $\chi^2 \le 1.9421$, and ensuring proton lifetime $\tau_p \gtrsim 10^{48}\text{ years}$.
-
-## 6. Interactive AI Co-Architect & Research Ambassador
-
-To enable students, physicists, and developers worldwide to explore **RHIT V8.5** deeply and interactively, this repository includes a specialized skill file (`AI_RESEARCH_SKILL.md`) designed to pair with **AI systems (such as Gemini)**. When loaded with the repository files, the AI acts as an **AI Research Ambassador** and **Thought Partner** on behalf of the Principal Investigator.
-
-### How to Interact with the AI Ambassador (3 Simple Steps):
-
-1. **Download the Reference Bundle:** Obtain `rhit_v8_5_ai_ssot.json`, `rhit_v8_5_audit_kernel_v4.py`, `RHIT_V8_5_Paper.pdf`, and `AI_RESEARCH_SKILL.md` from this repository.
-
-2. **Upload to Your AI Session:** Open a new session with an AI assistant (e.g., Gemini) and attach all four files simultaneously.
-
-3. **Explore, Brainstorm, or Audit:** Ask anything—from intuitive explanations of the 4 pillars and brainstorming novel applications in your specific domain (e.g., Quantum Computing, AI architectures, Materials Science, or Cosmology), to auditing your mathematical solutions for the **V9.0 Roadmap**. The AI is strictly grounded in the SSOT database and responds with objective, fact-based scientific rigor.
-
-## 7. Human-AI Collaborative Research Statement
-
-This work is the result of transparent, synergistic collaboration between the **Human Principal Investigator**—who established the physical axioms, the 4-pillar architecture, and the philosophical vision—and **Advanced AI Systems (AI Co-Architect)**, which assisted in mathematical consistency verification, developing the `audit_kernel`, structuring the 15-digit SSOT database, and formulating the open-science roadmap.
-
-## 8. License & Citation
-
-* **Theoretical Manuscript:** Licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).
-
-* **Source Code & JSON Database:** Licensed under the [MIT License](https://opensource.org/licenses/MIT).
-* **Citation:** If you use or build upon this work, please cite: *Relativistic Holographic Information Theory (RHIT V8.5 — Path 2 Master Solution), DOI: [10.5281/zenodo.24415515](https://doi.org/10.5281/zenodo.24415515)*
-
-## 9. Language Precedence Notice (หมายเหตุเรื่องความถูกต้องของภาษา)
-
-> **Important Note:** The Principal Investigator primarily reviews, verifies, and communicates in the **Thai language**. While this English documentation has been carefully translated for international accessibility, **in the event of any discrepancy, ambiguity, or conflict of interpretation between the English and Thai versions, the Thai version (`README_TH.md` and corresponding Thai documents) shall prevail as the authoritative source** representing the author's true intent.
+Expected audit verification summary:
+* `Combined Total Chi-Squared (22 Observables, dof=4): 1.9421`
+* `LVDB Milky Way Satellites (N=46) Chi-Squared Reduction: -40.66%`
+* `M87* Gravitational Atom Coupling (alpha_g): 1.377`
+* `Audit Status: AUDIT_PASSED (Zero-Contamination Verified)`

@@ -1,29 +1,24 @@
 cff-version: 1.2.0
-title: "Relativistic Holographic Information Theory (RHIT V8.5 — Path 2 Master Solution)"
-message: "If you use this theoretical framework, SSOT database, or verification kernel in your research, please cite it as below."
-type: software
-authors:
-  - family-names: "Bunhachirat"
-    given-names: "Suchart"
-    alias: "OrrBun"
-version: "8.5.0"
-doi: "10.5281/zenodo.24415515"
-date-released: "2026-11-21"
-url: "https://github.com/suchartorr/RHIT-V8.5-Master-Solution"
+message: "If you use this theoretical framework, 15-digit SSOT database, verification kernel, or AI research skill in your work, please cite it as below."
+title: "Relativistic Holographic Information Theory (RHIT V9.0): Unified 5D Holographic Field Architecture, Scalar Dark Matter Soliton Cores, and Compact-Object Echoes"
+version: 9.0.0
+date-released: 2026-11-23
+doi: 10.5281/zenodo.24415514
 repository-code: "https://github.com/suchartorr/RHIT-V8.5-Master-Solution"
-identifiers:
-  - type: doi
-    value: "10.5281/zenodo.24415515"
-    description: "Zenodo archive of RHIT V8.5.0"
-abstract: "A 5D holographic bottom-up Effective Field Theory (EFT) formulated on S^2 x R_t x [u_IR, 0] unifying emergent gravity, cosmology, dark sector screening, and fermion mass hierarchies from 18 free parameters to 22 predicted physical observables (chi^2 = 1.9421, dof = 4), packaged with a 15-digit Single Source of Truth (SSOT) database and an AI Research Ambassador skill framework."
+url: "https://suchartorr.github.io/RHIT-V8.5-Master-Solution/"
+license: MIT
+authors:
+  - family-names: Bunhachirat
+    given-names: Suchart
+abstract: >-
+  Relativistic Holographic Information Theory (RHIT V9.0) presents an integrated bottom-up effective field theory (EFT) formulated on a 5-dimensional warped geometry S^2 x R_t x [u_IR, 0]. Building directly upon the audited V8.5 baseline (Zero-Contamination Core), RHIT V9.0 preserves all 22 fundamental observables across cosmology, gravity, quark/lepton mass spectra, CKM/PMNS mixing matrices, and CP violation at 15-digit Single Source of Truth (SSOT) precision with combined chi^2 = 1.9421 (dof = 4). Furthermore, V9.0 derives the quartic scalar self-interaction lambda_V9 = 2.750176e-83 and vacuum Thomas-Fermi soliton core radius R_TF,vac = 320.3682 pc directly from 5D geometric invariants, reducing kinematic chi^2 against Local Volume Database (LVDB) Milky Way satellites (N=46) by 40.66% and Local Volume dwarfs (N=94) by 6.30% relative to LambdaCDM NFW profiles, while establishing a falsifiable astrophysical pipeline for M87* superradiant boson cloud resonance (alpha_g = 1.377) and compact-object echoes.
 keywords:
-  - "Holographic Principle"
-  - "Quantum Information"
-  - "Emergent Gravity"
-  - "Effective Field Theory"
-  - "Beyond Standard Model"
-  - "Dark Energy"
-  - "Symmetron Screening"
-  - "Theoretical Physics"
-  - "AI Research Ambassador"
-license: "MIT"
+  - holographic-principle
+  - quantum-information
+  - emergent-gravity
+  - effective-field-theory
+  - beyond-standard-model
+  - dark-matter-soliton
+  - symmetron-screening
+  - theoretical-physics
+  - ai-research-ambassador
