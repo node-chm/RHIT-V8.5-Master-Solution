@@ -1,6 +1,6 @@
 {
-  "schema_version": "RHIT-V8.5-AI-SSOT-1.3",
-  "model_id": "RHIT_V8_5_Path2_Master_Solution",
+  "schema_version": "9.0.0",
+  "model_id": "RHIT_V9_0_Integrated_Pillar3_Extended_Master",
   "precision_digits": 15,
   "governance": {
     "zero_hardcoding": true,
@@ -70,7 +70,11 @@
       "n_s": "1 - 2 / N_e"
     },
     "higgs_profile_delta": "\\delta_H = \\sqrt{4 + (m_H R_AdS)^2} - 2",
-    "neutrino_seesaw": "M_\\nu = (M_D M_D^T) / M_I"
+    "neutrino_seesaw": "M_\\nu = (M_D M_D^T) / M_I",
+    "quartic_self_interaction_5d": "\\lambda_{V9} = \\exp((4 + 2\\delta_H - 1/(2\\pi)) u_{IR})",
+    "thomas_fermi_soliton_core_vac": "R_{TF,vac} = \\pi \\sqrt{(\\lambda_{V9} \\hbar^3) / (8\\pi G_N m_{eff}^4 c)}",
+    "compact_object_echo_delay": "\\Delta t_{echo} = (2 r_s / c) |\\ln \\epsilon|",
+    "gravitational_atom_coupling": "\\alpha_g = (G_N M m_{eff}) / (\\hbar c)"
   },
   "derived_scales": {
     "M_I_GeV": 6288608109138.194,
@@ -485,6 +489,44 @@
       "experiments": [
         "MICROSCOPE",
         "Eot-Wash"
+      ]
+    },
+    {
+      "pillar": 3,
+      "subsector": "Compact_Object_Echoes_and_Boson_Cloud_Resonance",
+      "metric": "m87_superradiant_coupling_alpha_g_and_gw_echo_delay",
+      "evaluation_type": "one_way_astrophysical_prediction",
+      "pred": {
+        "m87_alpha_g": 1.377,
+        "gw150914_echo_delay_s": [
+          0.0773,
+          0.1127
+        ],
+        "gw150914_echo_freq_Hz": [
+          8.876,
+          12.945
+        ],
+        "imbh_1e4_echo_delay_s": [
+          10.457,
+          19.173
+        ],
+        "sgr_a_echo_delay_s": [
+          3466.6,
+          8751.9
+        ],
+        "max_soliton_mass_Msun": 1.0683e+16
+      },
+      "falsification_bound": "absence_of_boson_cloud_polarimetric_signature_on_M87_or_no_echoes_lnB_gt_5",
+      "falsification_condition_note": "If ngEHT polarimetry/photon-ring imaging of M87* (where alpha_g = 1.377 sits near peak superradiant resonance) rules out an ultralight scalar boson cloud (m_eff ~ 2.83e-20 eV), or if LIGO/ET/LISA post-merger searches exclude late-time echo trains within the predicted delay windows at Bayesian evidence ln(B) > 5, the horizonless soliton-core compact-object extension is falsified.",
+      "experiments": [
+        "EHT / ngEHT",
+        "LIGO / Virgo / KAGRA / Einstein Telescope",
+        "LISA"
+      ],
+      "methodological_references": [
+        "Cardoso et al. (2016) PRL 116, 171101",
+        "Abedi et al. (2017) PRD 96, 082004",
+        "Fuertes Oliva (2026) QGT_IR Appendix E (Bayesian Echo & Horizonless Compact Object Observational Pipeline)"
       ]
     }
   ]
