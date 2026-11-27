@@ -14,7 +14,8 @@
 
 ## Overview & Theoretical Architecture
 
-**Relativistic Holographic Information Theory (RHIT V9.0)** is an integrated bottom-up effective field theory (EFT) formulated on a 5-dimensional warped geometry $S^2 \times \mathbb{R}_t \times [u_{\text{IR}}, 0]$. It unifies quantum information entropy on a spherical horizon $S^2$, 5D $SO(10) \to SU(4)_C \times SU(2)_L \times SU(2)_R \to \text{SM}$ gauge unification, emergent gravity, and scalar dark matter dynamics within a single Master Action:
+**Relativistic Holographic Information Theory (RHIT V9.0)** is an integrated bottom-up effective field theory (EFT) formulated on a 5-dimensional warped geometry $S^2 \times \mathbb{R}\_t \times [u\_{\text{IR}}, 0]$
+. It unifies quantum information entropy on a spherical horizon $S^2$, 5D $SO(10) \to SU(4)_C \times SU(2)_L \times SU(2)_R \to \text{SM}$ gauge unification, emergent gravity, and scalar dark matter dynamics within a single Master Action:
 
 $$S_{\text{RHIT}}^{\text{V9.0}} = \int d^4x \sqrt{-g} \left[ \frac{c^3}{16\pi G_N(u_{\text{IR}})} \left( R + \frac{R^2}{6 M_{\text{sc}}^2} - \frac{6\gamma_{\text{ent}} H^2}{c^2} \right) - \frac{1}{2}(\partial\phi)^2 - V_{\text{sym}}(\phi) - \frac{\phi^2}{2M_s^2} T^\mu_{\ \mu} + \mathcal{L}_{5\text{D Matter}} \right]$$
 
