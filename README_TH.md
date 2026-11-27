@@ -14,7 +14,7 @@
 
 ## ภาพรวมและสถาปัตยกรรมทางทฤษฎี
 
-**ทฤษฎีสารสนเทศโฮโลแกรมสัมพัทธภาพ (Relativistic Holographic Information Theory: RHIT V9.0)** เป็นทฤษฎีสนามควอนตัมเชิงประสิทธิผลจากล่างขึ้นบน (Bottom-Up Effective Field Theory) บนโครงสร้างเรขาคณิต 5 มิติแบบโค้งงอ $S^2 \times \mathbb{R}_t \times [u_{\text{IR}}, 0]$ โดยหลอมรวมเอนโทรปีข้อมูลควอนตัมบนขอบฟ้าทรงกลม $S^2$ การรวมแรง $SO(10) \to SU(4)_C \times SU(2)_L \times SU(2)_R \to \text{SM}$ ใน 5 มิติ แรงโน้มถ่วงอุบัติใหม่ และพลวัตของสสารมืดสเกลาร์เข้าไว้ในสมการแอ็กชันหลักหนึ่งเดียว:
+**ทฤษฎีสารสนเทศโฮโลแกรมสัมพัทธภาพ (Relativistic Holographic Information Theory: RHIT V9.0)** เป็นทฤษฎีสนามควอนตัมเชิงประสิทธิผลจากล่างขึ้นบน (Bottom-Up Effective Field Theory) บนโครงสร้างเรขาคณิต 5 มิติแบบโค้งงอ $S^2 \times \mathbb{R}\_t \times [u\_{\text{IR}}, 0]$ โดยหลอมรวมเอนโทรปีข้อมูลควอนตัมบนขอบฟ้าทรงกลม $S^2$ การรวมแรง $SO(10) \to SU(4)_C \times SU(2)_L \times SU(2)_R \to \text{SM}$ ใน 5 มิติ แรงโน้มถ่วงอุบัติใหม่ และพลวัตของสสารมืดสเกลาร์เข้าไว้ในสมการแอ็กชันหลักหนึ่งเดียว:
 
 $$S_{\text{RHIT}}^{\text{V9.0}} = \int d^4x \sqrt{-g} \left[ \frac{c^3}{16\pi G_N(u_{\text{IR}})} \left( R + \frac{R^2}{6 M_{\text{sc}}^2} - \frac{6\gamma_{\text{ent}} H^2}{c^2} \right) - \frac{1}{2}(\partial\phi)^2 - V_{\text{sym}}(\phi) - \frac{\phi^2}{2M_s^2} T^\mu_{\ \mu} + \mathcal{L}_{5\text{D Matter}} \right]$$
 
