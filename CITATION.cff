@@ -22,3 +22,13 @@ keywords:
   - symmetron-screening
   - theoretical-physics
   - ai-research-ambassador
+preferred-citation:
+  type: article
+  title: "Relativistic Holographic Information Theory (RHIT V9.0): Unified 5D Holographic Field Architecture, Scalar Dark Matter Soliton Cores, and Compact-Object Echoes"
+  authors:
+    - family-names: Bunhachirat
+      given-names: Suchart
+  year: 2026
+  month: 11
+  doi: 10.5281/zenodo.24415514
+  url: "https://suchartorr.github.io/RHIT-V8.5-Master-Solution/"
